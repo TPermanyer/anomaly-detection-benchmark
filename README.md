@@ -288,22 +288,14 @@ DEFAULT_KWARGS["MyMethod"] = {"param1": 10, "contamination": 0.1}
 
 ---
 
-## Screenshots
 
-> *Add screenshots of your application here*
-
-| Data Upload | Leaderboard | Deep Dive |
-|-------------|-------------|-----------|
-| ![Data](screenshots/data.png) | ![Leaderboard](screenshots/leaderboard.png) | ![DeepDive](screenshots/deepdive.png) |
-
----
 
 ## Future Improvements
 
 - [ ] **Hyperparameter Optimization**: Integration with Optuna for automated tuning
 - [ ] **Streaming Data Support**: Real-time anomaly detection for time series
 - [ ] **Model Export**: Save trained models for production deployment
-- [ ] **Additional Methods**: SUOD, LUNAR, LUNAR, etc.
+- [ ] **Additional Methods**: SUOD, LUNAR, etc.
 - [ ] **Docker Support**: Containerized deployment
 - [ ] **API Endpoints**: REST API for programmatic access
 
@@ -311,15 +303,13 @@ DEFAULT_KWARGS["MyMethod"] = {"param1": 10, "contamination": 0.1}
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
 
 ---
 
 ## Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your_profile)
+[TPermanyer](https://github.com/TPermanyer)
 
 ---
 
