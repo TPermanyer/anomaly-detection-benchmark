@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+plotly
+streamlit
+pyod
+scipy
+h5py
+tqdm
+shap
